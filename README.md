@@ -3,11 +3,11 @@ a game about being a ball running away from other balls.
 
 # How to Play
 **Windows**
-> Download the latest release
-> Run the .exe file
+1. Download the latest release.
+2. Run the `.exe` file.
 
-**MacOS/Linux**
-> Download the source code as a .zip
-> Rename the file extension to ".love"
-> Make sure you have Love2D and Lua installed
-> Run the .love file
+**macOS/Linux**
+1. Download the source code as a `.zip`.
+2. Rename the file extension to `.love`.
+3. Make sure you have LÖVE2D and Lua installed.
+4. Run the `.love` file.
