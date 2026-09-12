@@ -1625,7 +1625,7 @@ function love.draw()
 
             love.graphics.setFont(titleFont)
             love.graphics.setColor(unpack(titleColor))
-
+            --[[
             love.graphics.printf(
                 "assets",
                 0,
@@ -1633,13 +1633,7 @@ function love.draw()
                 love.graphics.getWidth(),
                 "center"
             )
-
-            --[[
             
-            IF YOURE READING THIS THE REASON WHY I DONT INCLUDE CREDITS FOR THE MUSIC IS BECAUSE
-            1. ITS ALL ROYALTY FREE AND I AM FREE TO USE IT WITHOUT INCLUDING CREDITS
-            2. I CANT BE BOTHERED TO FIND THE ORIGINAL OWNER OF ALL THE MUSIC AND ADD THEM TO CREDITS
-
             love.graphics.setFont(textFont)
             love.graphics.setColor(unpack(textColor))
             
