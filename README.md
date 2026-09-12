@@ -7,8 +7,8 @@ a game about being a ball running away from other balls.
 2. Run the `.exe` file.
 
 **macOS/Linux**
-1. Download the release as a `.love`.
-2. Make sure you have LÖVE2D and Lua installed.
+1. Download the latest release as a `.love`.
+2. Ensure LÖVE2D and Lua is installed.
 3. Run the `.love` file.
 
 # Virus detection
